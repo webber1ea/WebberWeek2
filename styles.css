@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+}
+/*Welcome Back P*/
+#welcome {
+  color: gray;
+  border-top-color: gray;
+  border-top-style: solid;
+  border-top-width: 1px;
+  margin: 0 auto;
+  text-align: center;
+  width: 200px;
+  padding: 10px;
+}
+/*CONTAINER*/
+#container {
+  background-color: white;
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+  padding: 50px;
+  text-align: center;
+}
+/*BUTTON*/
+#btn {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  width: 250px;
+  border: 1px solid black;
+  text-transform: uppercase;
+}
+/*TROUBLE*/
+#trouble {
+  color:gray;
+}
+#trouble:hover {
+  color: black;
+}
+
+#recover {
+  color:gray;
+  font-family:Georgia;
+  font-display: block;
+}
+#recover:hover {
+  color:blue;
+  text-transform: uppercase;
+}
